@@ -40,7 +40,3 @@ $('.close').click(function(){
     ultimateParent.removeClass('moveOut').removeClass('active');
   },250);
 })
-
-// snow effect customizations
-
-$(document).snowfall({flakeCount : 100,collection : '.collectonme',  maxSpeed : 10});
