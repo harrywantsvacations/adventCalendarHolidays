@@ -1,5 +1,4 @@
 // target current day, disable future days and days without dates
-$ = jQuery; 
 var d = new Date();
 var todaysDate = d.getDate();
 var target = $('#calendar .week .day .date');
