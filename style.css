@@ -8,7 +8,7 @@
 	 min-height: 100%;
 }
  body {
-	 background-color: #204198;
+	 background-color: #00a5c8;
 }
  h1 {
 	 font-size: 35px;
@@ -219,7 +219,7 @@
 	 cursor: default;
 }
  #calendar .week .day:hover {
-	 background-color: #305dd4;
+	 background-color: #00a5c8;
 	 cursor: pointer;
 }
  #calendar .week .day:hover.noDate {
